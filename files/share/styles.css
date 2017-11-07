@@ -123,22 +123,13 @@
   left:50%;
   margin-left:-142px;
   top:50%;
-  margin-top:-98.5px;
-  width:284px;
-  height:197px;
-  overflow:hidden;
+  margin-top:-74.5px;
   visibility:hidden;
 }
 #u60_state0 {
-  position:absolute;
+  position:relative;
   left:0px;
   top:0px;
-  width:284px;
-  height:197px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
   background-image:none;
 }
 #u60_state0_content {
